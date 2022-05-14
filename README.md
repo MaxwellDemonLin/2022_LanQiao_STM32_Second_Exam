@@ -1,0 +1,2 @@
+# 2022_LanQiao_STM32_Second_Exam
+蓝桥杯嵌入式第二场，新版开发板
